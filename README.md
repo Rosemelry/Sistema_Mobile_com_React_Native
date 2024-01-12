@@ -19,6 +19,12 @@ Este projeto tem como objetivo criar um sistema mobile com React Native que cont
 * Deve ser enviado o arquivo compilado e o link do Github do projeto.
 
 
+## ⚙️Ferramentas
+  
+  * [Visual Studio Code](https://code.visualstudio.com/) Ambiente para desenvolver o código.
+  * [ApIfootbal](https://apifootball.com) Consumir essa API.
+
+
 ## 📂Estrutura e descrição do projeto
 
 - `App_Mobile`: Pasta que contém os arquivos principais, no qual define os recursos e variavéis necessários para a infraestrutura do projeto.
